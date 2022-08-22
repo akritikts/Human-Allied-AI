@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T08:24:58.339Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WJSN9odW7mq-Qeam7A6M" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T08:28:01.310Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="g4WVgRx3iO2e08fTSyNn" version="20.2.5" type="github">
   <diagram id="DPi9_XITnpIse1BLLOUD" name="Page-1">
     <mxGraphModel dx="2249" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="342qyx0WMo6BJ1TXW794-3" value="&lt;b&gt;Node -2&lt;br&gt;&lt;/b&gt;Emotion Board (care: 0.49, anger: 0, disgust: 0.22)&lt;br&gt;Emotion with highest score: care" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="342qyx0WMo6BJ1TXW794-4" value="&lt;b&gt;Node -4&lt;br&gt;&lt;/b&gt;Emotion Board (admiration: 0.43, anger: 0, disgust: 0.92)&lt;br&gt;Emotion with highest score: disgust" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="342qyx0WMo6BJ1TXW794-4" value="&lt;b&gt;Node -4&lt;br&gt;&lt;/b&gt;Emotion Board (confusion: 0.43, desire: 0, care: 0.92)&lt;br&gt;Emotion with highest score: care" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="585" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="342qyx0WMo6BJ1TXW794-5" value="&lt;b&gt;Node -5&lt;br&gt;&lt;/b&gt;Emotion Board (admiration: 0.43, anger: 0, disgust: 0.92)&lt;br&gt;Emotion with highest score: disgust" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="342qyx0WMo6BJ1TXW794-5" value="&lt;b&gt;Node -5&lt;br&gt;&lt;/b&gt;Emotion Board (fear: 0.43, anger: 0, joy: 0.82)&lt;br&gt;Emotion with highest score: joy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="585" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="342qyx0WMo6BJ1TXW794-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="342qyx0WMo6BJ1TXW794-1">
@@ -49,6 +49,15 @@
             <mxPoint x="550" y="255" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="342qyx0WMo6BJ1TXW794-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253.33333333333348" y="80" as="sourcePoint" />
+            <mxPoint x="-230" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="342qyx0WMo6BJ1TXW794-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
